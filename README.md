@@ -60,6 +60,7 @@ student_enrollment_system/
 - 22UG1-0723  H.R.A.N. Dilhara
 - 22UG1-0394  C.W.M.V.S. Chandrasekara
 - 22UG1-0812 H.M.K.S. Dedunupitiya
+- 22UG2-0567 R.C.C.Raigama
 
 ### Developed by Group 3
 
